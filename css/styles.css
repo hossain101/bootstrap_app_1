@@ -50,7 +50,9 @@
     position: absolute;
 }
 
-
+#pricing {
+    text-align: center;
+}
 
 #features {
     padding: 7% 15%;
@@ -113,4 +115,36 @@
         position: static;
         transform: rotate(0);
     }
+}
+
+
+
+#cta {
+    background-color: salmon;
+    padding: 7% 15%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+    text-align: center;
+    color: #f7f7f7;
+
+
+}
+
+#footer {
+    text-align: center;
+}
+
+.footer-button {
+
+    width: 5rem;
+
+}
+
+.footer-button-1 {
+    margin-left: auto;
+}
+
+.footer-button-4 {
+    margin-right: auto;
 }
